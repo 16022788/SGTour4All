@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SGTour4All</string>
+
+    <string-array name="spinnerItems">
+        <item>Attractions</item>
+        <item>Hotel</item>
+        <item>Food</item>
+    </string-array>
+
+    <string name="google_maps_API_key">AIzaSyB0ZXVEPywXV_3OFlRpqVfoEf9BCedPHlQ</string>
+</resources>
